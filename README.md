@@ -67,7 +67,7 @@
 </div>
 <div align ="center">
   
-  <img src="https://streak-stats.demolab.com?user=justarvind07&locale=en&mode=daily&theme=dark&layout=compact&card_width=350&hide_border=false&border_radius=5&order=3" height="200"  alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=justarvind07&locale=en&mode=daily&theme=dark&layout=compact&card_width=350&hide_border=false&order=3" height="200"  alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justarvind07&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 
 </div>
